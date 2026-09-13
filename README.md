@@ -3,6 +3,9 @@
 
 🌐 **Live Demo:** https://bilal127.github.io/resumescreen-ai/
 
+The html code was generated & uploaded with the help of Claude AI.
+
+
 ## Why I built this
 After years of recruiting across Engineering, Product and GTM roles, I realized that recruiters still spend significant time switching between multiple tools for screening, outreach, interview coordination and hiring decisions.
 
