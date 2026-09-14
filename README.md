@@ -7,7 +7,7 @@ The html code was generated & uploaded with the help of Claude AI.
 
 
 ## Why I built this
-As a curious learner & with years of experience in recruiting across Engineering, Product and GTM roles, I realized that recruiters still spend significant time switching between multiple tools for screening, outreach, interview coordination & hiring decisions.
+I built ResumeScreen AI not because resume screening tools don't exist, but to understand how recruiting expertise can be translated into an AI product. The process taught me how to apply first-principles recruiting, product thinking, explainable AI, workflow design, & human-in-the-loop decision making to solve real recruiting problems.
 
 Most AI resume screening tools focus only on keyword matching. They rarely explain *why* a candidate is a fit or help recruiters throughout the rest of the hiring workflow.
 
