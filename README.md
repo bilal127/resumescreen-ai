@@ -7,7 +7,7 @@ The html code was generated & uploaded with the help of Claude AI.
 
 
 ## Why I built this
-After years of recruiting across Engineering, Product and GTM roles, I realized that recruiters still spend significant time switching between multiple tools for screening, outreach, interview coordination and hiring decisions.
+As a curious learner & with years of experience in recruiting across Engineering, Product and GTM roles, I realized that recruiters still spend significant time switching between multiple tools for screening, outreach, interview coordination & hiring decisions.
 
 Most AI resume screening tools focus only on keyword matching. They rarely explain *why* a candidate is a fit or help recruiters throughout the rest of the hiring workflow.
 
